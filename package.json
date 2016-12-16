@@ -1,0 +1,43 @@
+{
+  "name": "gaia-js-http-api",
+  "description": "Http api package for use with GaiaJs", 
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vginert/gaia-js-http-api.git"
+  },
+  "author": {
+    "name": "Vicente Giner Tendero",
+    "email": "vginert@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vginert/gaia-js-http-api/issues"
+  },
+  "homepage": "https://github.com/vginert/gaia-js-http-api#readme",
+  "keywords": [
+    "gaia-js",
+    "climate",
+    "terrarium",
+    "vivarium",
+    "grow room",
+    "tools",
+    "api",
+    "http",
+    "express"
+  ],
+  "files": [
+    "examples",
+    "lib",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {
+    "express": "~4.13.4",
+  }
+}
